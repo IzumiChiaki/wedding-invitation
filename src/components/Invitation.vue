@@ -6,8 +6,8 @@
           <div class="content-inside">
             <img class="content-inside-photo" src="../images/photo.jpg">
             <p>我们结婚啦！</p>
-            <p><b>Jun & undefined</b></p>
-            <p>时间：invalid date value</p>
+            <p><b>Chen & Na</b></p>
+            <p>时间：2025-07-14</p>
             <p>地点：<b>location can not be found</b></p>
             <div class="content-inside-bless">
               <input
